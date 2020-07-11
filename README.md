@@ -1,4 +1,10 @@
-### Hi there 👋
+
+Hello, I'm an Informatics student, currently living in Jakarta. I'm pasionate to an open-source project since 2013. Most of my contribution are goes to Android custom ROM community. Including but not limited to Linux kernel, Device tree configuration and also a mobile Application. Anyway, I'm excited to explore new things.
+
+# Contact
+* Linkedin : www.linkedin.com/in/faizauthar12
+* Telegram : https://t.me/faizauthar12
+
 
 <!--
 **faizauthar12/faizauthar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
