@@ -1,5 +1,5 @@
 
-Hello, I'm a Computer Science student, currently living in Jakarta. I'm pasionate to an open-source project since 2013. Most of my contribution are goes to Android custom ROM community. Including but not limited to Linux kernel, Device tree configuration and also a mobile Application. Anyway, I'm excited to explore new things.
+Hello, I'm a Computer Science student, currently living in Jakarta. I'm pasionate to an open-source project since 2014. Most of my contribution are goes to Android custom ROM community. Including but not limited to Linux kernel, Device tree configuration and also a mobile Application. Anyway, I'm excited to explore new things.
 
 # Contact
 * Linkedin : www.linkedin.com/in/faizauthar12
