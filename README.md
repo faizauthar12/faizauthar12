@@ -5,7 +5,8 @@ Hello, I'm a Computer Science student, currently living in Jakarta. I'm pasionat
 * Linkedin : www.linkedin.com/in/faizauthar12
 * Telegram : https://t.me/faizauthar12
 
-
+---
+![faizauthar12's github stats](https://github-readme-stats.vercel.app/api?username=faizauthar12&show_icons=true&theme=tokyonight)
 <!--
 **faizauthar12/faizauthar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
