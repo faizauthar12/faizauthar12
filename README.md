@@ -4,6 +4,7 @@ Hello, I'm a Computer Science student, currently living in Jakarta. I'm pasionat
 # Contact
 * Linkedin : www.linkedin.com/in/faizauthar12
 * Telegram : https://t.me/faizauthar12
+* XDA-Developers : https://forum.xda-developers.com/member.php?u=5689422
 
 ---
 ![faizauthar12's github stats](https://github-readme-stats.vercel.app/api?username=faizauthar12&show_icons=true&theme=tokyonight)
